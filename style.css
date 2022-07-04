@@ -1,0 +1,61 @@
+h3{
+    text-align: center;
+    background-color:grey;
+    color: aqua;
+    padding: 20px;
+    margin: 25px;
+    font-size: 25px;
+    
+}
+#info{
+    text-align: justify;
+    border: 5px solid rosybrown;
+    border-radius: 4px;
+    margin: 10px 5px 10px;
+    padding: 10px 10px 10px;
+}
+#biriani{
+    text-align: justify;
+    border: 5px solid #13b7bd;
+    border-radius: 4px;
+    margin: 10px 5px 10px;
+    padding: 10px 10px 10px;
+}
+#hot{
+    text-align: justify;
+    border: 5px solid rgb(10, 187, 90);
+    border-radius: 4px;
+    margin: 10px 5px 10px;
+    padding: 10px 10px 10px;
+}
+#css{
+    text-align: justify;
+    border: 5px solid rgb(143, 188, 169);
+    border-radius: 4px;
+    margin: 10px 5px 10px;
+    padding: 10px 10px 10px; 
+}
+small{
+    
+    border-color: bisque;
+    color: black;
+    display: block;
+    font-size: 15px;
+}
+.box{
+    text-align: center;
+    background-color: rgba(28, 224, 224, 0.021);
+    border: 5px solid rgb(51, 50, 50) ;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background:rgba(8, 235, 159, 0.623);
+    text-align: justify
+}
+#cm{
+    text-align: center;
+}
